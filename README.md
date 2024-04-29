@@ -1,5 +1,8 @@
 #  Countdown Timer Component 
 
+## Playground  
+https://codepen.io/rahimasalman/pen/QWPJbLL
+
 ## Description
 The Countdown Timer component is used to display and manage a countdown timer with customizable total time and initial time left.
 
